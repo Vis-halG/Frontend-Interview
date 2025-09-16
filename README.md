@@ -18,3 +18,5 @@ Symbol - It is a new data type introduced in the ES6 version of javascript. It i
 And in Non-primitive 
 Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
 Object - Used to store collection of data.  like array, function
+
+
