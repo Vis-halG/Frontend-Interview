@@ -19,8 +19,10 @@ Primitive data types can store only a single value. To store multiple and comple
 Object - Used to store collection of data.  like array, function
 
 Q3 HTML :- The Basic Structure of an HTML Page
-<!DOCTYPE html>: This declaration is the very first line of code in an HTML document. It tells the browser that the document is an HTML5 page.
-<html> and </html>: These are the opening and closing tags that wrap around all the other content on the page. Everything inside these tags is part of the HTML document.
-<body> and </body>: The body element contains the visible content of your web page. All the text, images, links, and other elements that a user sees are placed inside the <body> tags. 
-Tags: Tags are used to create elements in HTML. They usually in pairs: an opening tag and a closing tag. For example, the <p> tag creates a paragraph, and it is closed with </p>. Some tags, like <img>, are self-closing.
-Attributes: Attributes provide additional information about an element. They are always specified in the opening tag. like  align="center" is an attribute of the paragraph tag <p>, and it tells the browser to center the text. The src="image_path.jpeg" attribute for the <img> tag specifies the source or path of the image file.
+* **`<!DOCTYPE html>`**: This declaration is the very first line of code in an HTML document. It tells the browser that the document is an HTML5 page.
+* **`<html>`** and **`</html>`**: These are the **opening** and **closing tags** that wrap around all the other content on the page. Everything inside these tags is part of the HTML document.
+* **`<body>`** and **`</body>`**: The `body` element contains the visible content of your web page. All the text, images, links, and other elements that a user sees are placed inside the `<body>` tags.
+***
+### Understanding Tags and Attributes
+* **Tags**: Tags are used to create elements in HTML. They usually come in pairs: an opening tag and a closing tag. For example, the **`<p>`** tag creates a paragraph, and it is closed with **`</p>`**. Some tags, like **`<img>`**, are self-closing.
+* **Attributes**: Attributes provide additional information about an element. They are always specified in the opening tag. For example, **`align="center"`** is an attribute of the paragraph tag **`<p>`**, and it tells the browser to center the text. The **`src="image_path.jpeg"`** attribute for the **`<img>`** tag specifies the source or path of the image file.
