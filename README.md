@@ -10,15 +10,23 @@ Absolute means the element is taken out of the normal layout flow and placed exa
 JavaScript has two main kinds of data types: Primitive & nonPrimitive
 
 In Primitive types there are
+
 String - It represents a series of characters and is written with quotes. A string can be represented using a single or a double quote.
+
 Number - It represents a number and can be written with or without decimals.
+
 BigInt - This data type is used to store numbers which are above the limitation of the Number data type. It can store large integers { and is represented by adding “n” to an integer literal. }
+
 Boolean - It represents a logical entity and can have only two values : true or false. Booleans are generally used for conditional testing.
+
 Undefined - When a variable is declared but not assigned, it has the value of undefined and it’s type is also undefined.
+
 Null - Represents no value or empty value.
+
 Symbol - It is a new data type introduced in the ES6 version of javascript. It is used to store an anonymous and unique value.
 
 In Non-primitive 
+
 Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
 Object - Used to store collection of data.  like array, function
 ***
