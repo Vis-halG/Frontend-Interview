@@ -47,6 +47,12 @@ Example:
 * var y = "2";
 * (x == y)  // Returns true since the value of both x and y is the same
 * (x === y) // Returns false since the typeof x is "number" and typeof y is "string"
-  
+***
+
+### Q6 HTML What are tags and attributes in HTML?
+Tags are the primary component of the HTML that defines how the content will be structured/ formatted, whereas Attributes are used along with the HTML tags to define the characteristics of the element. For example, <p align=” center”>Interview questions</p>,
+***
+***
+***
 ***
 ***
