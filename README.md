@@ -50,7 +50,7 @@ Example:
 ***
 
 ### Q6 HTML What are tags and attributes in HTML?
-Tags are the primary component of the HTML that defines how the content will be structured/ formatted, whereas Attributes are used along with the HTML tags to define the characteristics of the element. For example, <p align=” center”>Interview questions **`</p>`**.
+Tags are the primary component of the HTML that defines how the content will be structured/ formatted, whereas Attributes are used along with the HTML tags to define the characteristics of the element. For example, <p align=” center”> Interview questions **`</p>`**.
 ***
 ***
 ***
