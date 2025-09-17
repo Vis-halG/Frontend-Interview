@@ -29,3 +29,11 @@ Object - Used to store collection of data.  like array, function
 * **`<body>`** and **`</body>`**: The `body` element contains the visible content of your web page. All the text, images, links, and other elements that a user sees are placed inside the `<body>` tags.
 * **Tags**: Tags are used to create elements in HTML. They usually come in pairs: an opening tag and a closing tag. For example, the **`<p>`** tag creates a paragraph, and it is closed with **`</p>`**. Some tags, like **`<img>`**, are self-closing.
 * **Attributes**: Attributes provide additional information about an element. They are always specified in the opening tag. For example, **`align="center"`** is an attribute of the paragraph tag **`<p>`**, and it tells the browser to center the text. The **`src="image_path.jpeg"`** attribute for the **`<img>`** tag specifies the source or path of the image file.
+***
+
+### Q4 CSS What is the Box model in CSS?
+In CSS, every element is treated like a box, which has content, padding, border, and margin. This is called the Box Model. It’s important for controlling spacing and layout on a webpage
+* Content → The actual text, image, or content inside the box.
+* Padding → The space between the content and the border (like breathing space inside the box).
+* Border → The line (visible or invisible) around the padding and content.
+* Margin → The outer space between this element’s border and the next element.
