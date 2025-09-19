@@ -41,7 +41,6 @@ In CSS, every element is treated like a box, which has content, padding, border,
 
 ### Q5 Javascript Difference between “ == “ and “ === “ operators.
 Both are comparison operators. The difference between both the operators is that “==” is used to compare values whereas, “ === “ is used to compare both values and types.
-
 Example:
 * var x = 2;
 * var y = "2";
@@ -54,69 +53,57 @@ Tags are the primary component of the HTML that defines how the content will be 
 ***
 
 ### Q7 CSS What are the different types of Selectors in CSS?
+CSS **selectors** are used to target HTML elements and apply styles.\
 
-CSS **selectors** are used to target HTML elements and apply styles.  
 /* Universal Selector */
 * {
   margin: 0;
   padding: 0;
 }
-
 /* Type Selector */
 p {
   color: blue;
 }
-
 /* Class Selector */
 .button {
   background: green;
 }
-
 /* ID Selector */
 #header {
   font-size: 20px;
 }
-
 /* Grouping Selector */
 h1, h2, h3 {
   color: red;
 }
-
 /* Descendant Selector */
 div p {
   color: gray;
 }
-
 /* Child Selector */
 div > p {
   font-weight: bold;
 }
-
 /* Adjacent Sibling Selector */
 h1 + p {
   color: orange;
 }
-
 /* General Sibling Selector */
 h1 ~ p {
   font-style: italic;
 }
-
 /* Attribute Selector */
 input[type="text"] {
   border: 1px solid black;
 }
-
 /* Pseudo-class */
 a:hover {
   color: red;
 }
-
 /* Pseudo-element */
 p::first-letter {
   font-size: 30px;
 }
-
 ***
 ***
 ***
