@@ -52,6 +52,71 @@ Example:
 ### Q6 HTML What are tags and attributes in HTML?
 Tags are the primary component of the HTML that defines how the content will be structured/ formatted, whereas Attributes are used along with the HTML tags to define the characteristics of the element. For example, <p align=” center”> Interview questions **`</p>`**.
 ***
+
+### Q7 CSS What are the different types of Selectors in CSS?
+
+CSS **selectors** are used to target HTML elements and apply styles.  
+/* Universal Selector */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Type Selector */
+p {
+  color: blue;
+}
+
+/* Class Selector */
+.button {
+  background: green;
+}
+
+/* ID Selector */
+#header {
+  font-size: 20px;
+}
+
+/* Grouping Selector */
+h1, h2, h3 {
+  color: red;
+}
+
+/* Descendant Selector */
+div p {
+  color: gray;
+}
+
+/* Child Selector */
+div > p {
+  font-weight: bold;
+}
+
+/* Adjacent Sibling Selector */
+h1 + p {
+  color: orange;
+}
+
+/* General Sibling Selector */
+h1 ~ p {
+  font-style: italic;
+}
+
+/* Attribute Selector */
+input[type="text"] {
+  border: 1px solid black;
+}
+
+/* Pseudo-class */
+a:hover {
+  color: red;
+}
+
+/* Pseudo-element */
+p::first-letter {
+  font-size: 30px;
+}
+
 ***
 ***
 ***
