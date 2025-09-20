@@ -107,6 +107,7 @@ p::first-letter {
 ***
 
 ### Q8 Javascript What is the difference between var, let, and const in JavaScript?
+var is function-scoped, which means it is accessible throughout the entire function in which it is declared, even outside of block statements like if or for. On the other hand, let and const are block-scoped, meaning they are only accessible within the specific block { } where they are defined. This makes let and const safer to use because they prevent accidental access or modification outside their intended block. Generally, const is used for values that should not change, while let is used when the value needs to be updated
 ***
 ***
 ***
