@@ -13,7 +13,7 @@ Tags are the primary component of the HTML that defines how the content will be 
 ***
 
 ###  HTML What are void elements in HTML?
-HTML elements which do not have closing tags or do not need to be closed are Void elements. For Example <br />, <img />, <hr />, etc.
+HTML elements which do not have closing tags or do not need to be closed are Void elements. For Example: `<br />`, `<img />`, `<hr />` etc
 ***
 
 ###   CSS :- Difference Between relative and absolute
