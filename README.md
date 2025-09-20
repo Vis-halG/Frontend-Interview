@@ -120,9 +120,9 @@ React is a front-end and open-source JavaScript library which is useful in devel
 
 The important features of React are:
 
-It supports server-side rendering.
-It will make use of the virtual DOM rather than real DOM (Data Object Model) as RealDOM manipulations are expensive.
-It uses reusable or composable UI components for developing the view.
+* It supports server-side rendering.
+* It will make use of the virtual DOM rather than real DOM (Data Object Model) as RealDOM manipulations are expensive.
+* It uses reusable or composable UI components for developing the view.
 
 
 
