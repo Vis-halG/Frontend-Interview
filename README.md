@@ -105,6 +105,8 @@ p::first-letter {
   font-size: 30px;
 }
 ***
+
+### Q8 Javascript What is the difference between var, let, and const in JavaScript?
 ***
 ***
 ***
