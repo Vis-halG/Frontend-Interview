@@ -16,6 +16,26 @@ Tags are the primary component of the HTML that defines how the content will be 
 HTML elements which do not have closing tags or do not need to be closed are Void elements. For Example: `<br />`, `<img />`, `<hr />` etc
 ***
 
+### 4.HTML:- What are different types of lists in HTML?
+there are mainly three types of lists used to organize content. Ordered lists (<ol>) are used when the items need to follow a specific sequence, and they are usually displayed with numbers or letters. Unordered lists (<ul>) are used when the order of items doesn’t matter, and they are displayed with bullet points by default. Description lists (<dl>) are used to define terms and their descriptions, where <dt> represents the term and <dd> represents its definition.
+***
+
+***
+
+
+
+***
+
+***
+
+
+
+***
+
+***
+
+
+
 ###   1.CSS:- Difference Between relative and absolute
 Answer:- Relative means the element is first placed in its normal position, and then you can shift it using top, left, right, or bottom.Even after moving, it still occupies its original space, so other elements are not affected.
 Absolute means the element is taken out of the normal layout flow and placed exactly where you want using top, left, right, or bottom. It is positioned relative to the nearest parent that has a position (like relative, absolute, or fixed). If no such parent exists, it positions relative to the page (html/body).
