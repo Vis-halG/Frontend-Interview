@@ -20,6 +20,13 @@ HTML elements which do not have closing tags or do not need to be closed are Voi
 there are mainly three types of lists used to organize content. Ordered lists (<ol>) are used when the items need to follow a specific sequence, and they are usually displayed with numbers or letters. Unordered lists (<ul>) are used when the order of items doesn’t matter, and they are displayed with bullet points by default. Description lists (<dl>) are used to define terms and their descriptions, where <dt> represents the term and <dd> represents its definition.
 ***
 
+### 5.HTML:- What are the various formatting tags in HTML?
+formatting tags are used to style and emphasize text. Some of the commonly used tags are:
+&lt;b&gt; for bold text, &lt;i&gt; for italic text, and &lt;em&gt; which also makes text italic but adds semantic importance.
+&lt;strong&gt; highlights text as important, while &lt;mark&gt; highlights text with a background color.
+&lt;small&gt; reduces the text size, whereas &lt;big&gt; increases it.
+For scientific or mathematical notations, we use &lt;sub&gt; for subscript and &lt;sup&gt; for superscript.
+&lt;del&gt; shows text as deleted with a strikethrough, and &lt;ins&gt; shows inserted or added text.
 ***
 
 
