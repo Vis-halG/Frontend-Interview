@@ -17,7 +17,7 @@ HTML elements which do not have closing tags or do not need to be closed are Voi
 ***
 
 ### 4.HTML:- What are different types of lists in HTML?
-there are mainly three types of lists used to organize content. Ordered lists (<ol>) are used when the items need to follow a specific sequence, and they are usually displayed with numbers or letters. Unordered lists (<ul>) are used when the order of items doesn’t matter, and they are displayed with bullet points by default. Description lists (<dl>) are used to define terms and their descriptions, where <dt> represents the term and <dd> represents its definition.
+there are mainly three types of lists used to organize content. Ordered lists (&lt;ol&gt;) are used when the items need to follow a specific sequence, and they are usually displayed with numbers or letters. Unordered lists (&lt;ul&gt;) are used when the order of items doesn’t matter, and they are displayed with bullet points by default. Description lists (&lt;dl&gt;) are used to define terms and their descriptions, where &lt;dt&gt; represents the term and &lt;dd&gt; represents its definition.
 ***
 
 ### 5.HTML:- What are the various formatting tags in HTML?
