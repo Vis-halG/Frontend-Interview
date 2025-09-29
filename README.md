@@ -38,21 +38,6 @@ both &lt;strong&gt; and &lt;b&gt; make text appear bold, but their meaning is di
 ***
 
 
-***
-
-***
-
-***
-
-***
-***
-
-***
-***
-
-***
-
-
 ###   1.CSS:- Difference Between relative and absolute
 Answer:- Relative means the element is first placed in its normal position, and then you can shift it using top, left, right, or bottom.Even after moving, it still occupies its original space, so other elements are not affected.
 Absolute means the element is taken out of the normal layout flow and placed exactly where you want using top, left, right, or bottom. It is positioned relative to the nearest parent that has a position (like relative, absolute, or fixed). If no such parent exists, it positions relative to the page (html/body).
