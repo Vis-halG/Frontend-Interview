@@ -33,8 +33,9 @@ For scientific or mathematical notations, we use &lt;sub&gt; for subscript and &
 both &lt;strong&gt; and &lt;b&gt; make text appear bold, but their meaning is different. The &lt;b&gt; tag is used only for styling, while &lt;strong&gt; adds semantic importance, telling browsers and search engines that the text is important. Similarly, both &lt;em&gt; and &lt;i&gt; make text appear italic, but &lt;em&gt; adds emphasis with meaning, while &lt;i&gt; is just for visual styling without extra importance. Using &lt;strong&gt; and &lt;em&gt; is preferred for accessibility and SEO.
 ***
 
+### 6.HTML:- What is the difference between &lt;strong&gt;, &lt;b&gt; tags and &lt;em&gt;, &lt;i&gt; tags?
+both &lt;strong&gt; and &lt;b&gt; make text appear bold, but their meaning is different. The &lt;b&gt; tag is used only for styling, while &lt;strong&gt; adds semantic importance, telling browsers and search engines that the text is important. Similarly, both &lt;em&gt; and &lt;i&gt; make text appear italic, but &lt;em&gt; adds emphasis with meaning, while &lt;i&gt; is just for visual styling without extra importance. Using &lt;strong&gt; and &lt;em&gt; is preferred for accessibility and SEO.
 ***
-
 
 
 ***
