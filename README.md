@@ -1,6 +1,6 @@
 # Frontend-Interview
 
-###   1.HTML:- The Basic Structure of an HTML Page
+###   1.HTML:- The Basic Structure of an HTML Page (html)
 * **`<!DOCTYPE html>`**: This declaration is the very first line of code in an HTML document. It tells the browser that the document is an HTML5 page.
 * **`<html>`** and **`</html>`**: These are the **opening** and **closing tags** that wrap around all the other content on the page. Everything inside these tags is part of the HTML document.
 * **`<body>`** and **`</body>`**: The `body` element contains the visible content of your web page. All the text, images, links, and other elements that a user sees are placed inside the `<body>` tags.
