@@ -49,9 +49,10 @@ In CSS, every element is treated like a box, which has content, padding, border,
 * Border → The line (visible or invisible) around the padding and content.
 * Margin → The outer space between this element’s border and the next element.
 * ***
+###   3.CSS:- Display Properties in CSS?
+The display property in CSS controls how an element appears in the layout. Block elements start on a new line and take full width, inline elements stay in the same line and don’t allow width or height, while inline-block allows inline placement with width and height. We also use display: none to hide elements, display: flex for one-dimensional layout, and display: grid for two-dimensional layouts. This property helps in managing how elements occupy space on a webpage
 
-
-###   3.CSS:- What are the different types of Selectors in CSS?
+###   4.CSS:- What are the different types of Selectors in CSS?
 CSS **selectors** are used to target HTML elements and apply styles.\
 
 * /* Universal Selector */
@@ -74,26 +75,6 @@ p {
 * /* Grouping Selector */
 h1, h2, h3 {
   color: red;
-}
-* /* Descendant Selector */
-div p {
-  color: gray;
-}
-* /* Child Selector */
-div > p {
-  font-weight: bold;
-}
-* /* Adjacent Sibling Selector */
-h1 + p {
-  color: orange;
-}
-* /* General Sibling Selector */
-h1 ~ p {
-  font-style: italic;
-}
-* /* Attribute Selector */
-input[type="text"] {
-  border: 1px solid black;
 }
 * /* Pseudo-class */
 a:hover {
