@@ -50,6 +50,7 @@ In CSS, every element is treated like a box, which has content, padding, border,
 * Margin → The outer space between this element’s border and the next element.
 * ***
 ###   3.CSS:- Display Properties in CSS?
+block me elements ek ke niche ek aate hai inline me horizontal single me aate hai
 The display property in CSS controls how an element appears in the layout. Block elements start on a new line and take full width, inline elements stay in the same line and don’t allow width or height, while inline-block allows inline placement with width and height. We also use display: none to hide elements, display: flex for one-dimensional layout, and display: grid for two-dimensional layouts. This property helps in managing how elements occupy space on a webpage
 
 ###   4.CSS:- What are the different types of Selectors in CSS?
