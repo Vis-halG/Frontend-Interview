@@ -90,7 +90,7 @@ p::first-letter {
 ***
 ## 5. CSS: Difference between block, inline, and inline-block elements
 
-### 1. Block Elements
+1. Block Elements
 **Interview Answer:**  
 Block elements take full width of their parent and always start on a new line.
 
@@ -99,13 +99,9 @@ Block elements take full width of their parent and always start on a new line.
 
 **Default Behavior:**  
 - Width is 100% if not specified
-
-**Examples:**  
-<div>, <p>, <h1>-<h6>, <section>, <ul>, <li>
-
 ---
 
-### 2. Inline Elements
+2. Inline Elements
 **Interview Answer:**  
 Inline elements stay on the same line, take only content width, and do not support width and height.
 
@@ -115,14 +111,9 @@ Inline elements stay on the same line, take only content width, and do not suppo
 
 **Default Behavior:**  
 - Flow with text
-
-**Examples:**  
-<span>, <a>, <strong>, <em>  
-(Note: <img> is an inline element that supports width and height)
-
 ---
 
-### 3. Inline-Block Elements
+3. Inline-Block Elements
 **Interview Answer:**  
 Inline-block elements stay on the same line and allow full box styling like block elements.
 
@@ -131,13 +122,9 @@ Inline-block elements stay on the same line and allow full box styling like bloc
 
 **Use Case:**  
 - Buttons, navigation items, horizontal cards
-
-**Example CSS:**  
-display: inline-block;
-
 ---
 
-### One-Line Summary
+One-Line Summary
 Block elements start on a new line and take full width, inline elements stay inline and ignore sizing, while inline-block stays inline and supports full box styling.
 
 
