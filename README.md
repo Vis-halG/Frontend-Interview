@@ -99,7 +99,6 @@ Block elements take full width of their parent and always start on a new line.
 
 **Default Behavior:**  
 - Width is 100% if not specified
----
 
 2. Inline Elements
 **Interview Answer:**  
@@ -111,7 +110,6 @@ Inline elements stay on the same line, take only content width, and do not suppo
 
 **Default Behavior:**  
 - Flow with text
----
 
 3. Inline-Block Elements
 **Interview Answer:**  
@@ -122,11 +120,10 @@ Inline-block elements stay on the same line and allow full box styling like bloc
 
 **Use Case:**  
 - Buttons, navigation items, horizontal cards
----
 
 One-Line Summary
 Block elements start on a new line and take full width, inline elements stay inline and ignore sizing, while inline-block stays inline and supports full box styling.
-
+---
 
 ###   1.Javascript:- What are the different data types present in javascript?
 JavaScript has two main kinds of data types: Primitive & nonPrimitive
