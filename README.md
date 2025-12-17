@@ -49,9 +49,11 @@ In CSS, every element is treated like a box, which has content, padding, border,
 * Border → The line (visible or invisible) around the padding and content.
 * Margin → The outer space between this element’s border and the next element.
 * ***
+
 ###   3.CSS:- Display Properties in CSS?
 block me elements ek ke niche ek aate hai inline me horizontal single me aate hai
 The display property in CSS controls how an element appears in the layout. Block elements start on a new line and take full width, inline elements stay in the same line and don’t allow width or height, while inline-block allows inline placement with width and height. We also use display: none to hide elements, display: flex for one-dimensional layout, and display: grid for two-dimensional layouts. This property helps in managing how elements occupy space on a webpage
+* ***
 
 ###   4.CSS:- What are the different types of Selectors in CSS?
 CSS **selectors** are used to target HTML elements and apply styles.\
@@ -86,33 +88,26 @@ p::first-letter {
   font-size: 30px;
 }
 ***
-###   4.CSS:- What are the different types of Selectors in CSS?
+
+###   5.CSS:- What is the difference between block, inline, and inline-block elements?
 1. Block Elements
 Interview Answer: "Block elements are designed to occupy the full width of their parent container, effectively creating a 'block' of space. They always start on a new line and force subsequent elements onto a new line below them."
-
 Box Model: You have full control over the Box Model. width, height, padding, and margin (all four sides) are fully respected.
-
 Default Behavior: If no width is set, it defaults to 100% of the parent.
-
 Examples: <div>, <h1> - <h6>, <p>, <ul>, <li>, <section>.
 
 2. Inline Elements
 Interview Answer: "Inline elements only take up as much width as their content requires and do not start on a new line. They flow horizontally within the text content."
-
 Box Model: This is the most restricted mode. While padding and margin work on the left and right, they do not affect vertical layout (they won't push other elements away). Most importantly, width and height properties are ignored.
-
 Default Behavior: They wrap with the text.
-
 Examples: <span>, <a>, <strong>, <em>, <img> (Note: <img> is a rare "replaced" inline element that does allow width/height).
 
 3. Inline-Block Elements
 Interview Answer: "Inline-block is a hybrid. It allows an element to stay inline (on the same line as others) while still behaving like a block element in terms of the Box Model."
-
 Box Model: Unlike standard inline elements, inline-block respects width, height, and all four sides of padding and margin.
-
 Use Case: This is ideal for creating navigation links, buttons, or a horizontal grid of cards where you need specific dimensions but want them to sit side-by-side.
-
 Examples: Commonly used for custom buttons or layout items where you override the default display using display: inline-block;.
+***
 
 ###   1.Javascript:- What are the different data types present in javascript?
 JavaScript has two main kinds of data types: Primitive & nonPrimitive
