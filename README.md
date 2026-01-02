@@ -178,6 +178,10 @@ React then compares the new Virtual DOM with the old one and updates only the ch
 A React component is created by defining a JavaScript function that returns JSX and exporting it for reuse.
 ***
 
+###  6.React:- What is a stateful component?
+A stateful component is a React component that stores and manages its own data using state. This data can change over time due to user actions, API responses, or events. Whenever the state changes, React automatically re-renders the component to update the UI. In modern React, stateful components are usually created using functional components with Hooks like useState and useEffect, while earlier they were implemented using class components with this.state and setState.
+***
+
 
 ***
 
