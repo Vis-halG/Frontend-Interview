@@ -174,13 +174,14 @@ When something changes in the app, React first updates the Virtual DOM instead o
 React then compares the new Virtual DOM with the old one and updates only the changed parts in the real DOM. This makes the application faster and more efficient.
 ***
 
+###  5.React:- How do you create a component in React?
+A React component is created by defining a JavaScript function that returns JSX and exporting it for reuse.
 ***
 
 
 ***
 
 ***
-
 
 
 ***
