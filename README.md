@@ -168,8 +168,10 @@ It is a reusable piece of UI that controls what appears on the screen and how it
 JSX is a syntax extension for JavaScript used in React to write HTML-like code inside JavaScript. It makes UI code more readable, allows combining logic and markup in one place.
 ***
 
-
-
+###  4.React:- What is Virtual DOM in React?
+The Virtual DOM is a lightweight copy of the real DOM that React keeps in memory.
+When something changes in the app, React first updates the Virtual DOM instead of updating the real DOM directly.
+React then compares the new Virtual DOM with the old one and updates only the changed parts in the real DOM. This makes the application faster and more efficient.
 ***
 
 ***
