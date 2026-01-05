@@ -156,7 +156,7 @@ Example:
 ***
 
 ###  1.React:- What is React?
-React is a front-end and open-source JavaScript library which is useful in developing user interfaces specifically for applications with a single page. It is helpful in building complex and reusable user iReact is an open-source, front-end JavaScript library for building user interfaces, that focuses on reusable components and virtual DOM for performance.
+React is an open-source, front-end JavaScript library for building user interfaces, that focuses on reusable components and virtual DOM for performance.
 ***
 
 ###  2.React:- What is React component?
