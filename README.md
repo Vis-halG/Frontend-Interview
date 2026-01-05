@@ -164,18 +164,18 @@ A React component is the basic building block of a React application.
 It is a reusable piece of UI that controls what appears on the screen and how it behaves.
 ***
 
-###  3.React:- What is JSX and why do we use it in React?
-JSX is a syntax extension for JavaScript used in React to write HTML-like code inside JavaScript. It makes UI code more readable, allows combining logic and markup in one place.
-***
-
-###  4.React:- What is Virtual DOM in React?
+###  3.React:- What is Virtual DOM in React?
 The Virtual DOM is a lightweight copy of the real DOM that React keeps in memory.
 When something changes in the app, React first updates the Virtual DOM instead of updating the real DOM directly.
 React then compares the new Virtual DOM with the old one and updates only the changed parts in the real DOM. This makes the application faster and more efficient.
 ***
 
-###  5.React:- How do you create a component in React?
+###  4.React:- How do you create a component in React?
 A React component is created by defining a JavaScript function that returns JSX and exporting it for reuse.
+***
+
+###  5.React:- What is JSX and why do we use it in React?
+JSX is a syntax extension for JavaScript used in React to write HTML-like code inside JavaScript. It makes UI code more readable, allows combining logic and markup in one place.
 ***
 
 ###  6.React:- What is React Router?
