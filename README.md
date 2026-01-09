@@ -126,16 +126,22 @@ Block elements start on a new line and take full width, inline elements stay inl
 ---
 
 ###   1.Javascript:- What are the different data types present in javascript?
-JavaScript has two main kinds of data types: Primitive & nonPrimitive
+JavaScript has two main kinds of data types: Primitive & Non-Primitive
 
-In Primitive types there are
-String - It represents a series of characters and is written with quotes. A string can be represented using a single or a double quote.
-Number - It represents a number and can be written with or without decimals.
-BigInt - This data type is used to store numbers which are above the limitation of the Number data type. It can store large integers { and is represented by adding “n” to an integer literal. }
-Boolean - It represents a logical entity and can have only two values : true or false. Booleans are generally used for conditional testing.
-Undefined - When a variable is declared but not assigned, it has the value of undefined and it’s type is also undefined.
-Null - Represents no value or empty value.
-Symbol - It is a new data type introduced in the ES6 version of javascript. It is used to store an anonymous and unique value.
+Primitive data types store single and simple values.
+String – It represents a series of characters and is written inside single or double quotes.
+Example: "Hello"
+Number – It represents numeric values, with or without decimals.
+Example: 25, 3.14
+BigInt – Used to store very large integers beyond the limit of Number.
+It is written by adding n at the end of the number.
+Example: 12345678901234567890n
+Boolean – Represents logical values: true or false.
+Used in conditions and decision making.
+Undefined – When a variable is declared but not assigned any value, it is undefined.
+Null – Represents an empty or no value.
+Symbol – Introduced in ES6.
+Used to create unique and anonymous values.
 
 In Non-primitive 
 Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
