@@ -59,7 +59,7 @@ The display property in CSS controls how an element appears in the layout. Block
 CSS **selectors** are used to target HTML elements and apply styles.\
 
 * /* Universal Selector */
-* {
+   {
   margin: 0;
   padding: 0;
 }
@@ -128,24 +128,40 @@ Block elements start on a new line and take full width, inline elements stay inl
 ###   1.Javascript:- What are the different data types present in javascript?
 JavaScript has two main kinds of data types: Primitive & Non-Primitive
 
-Primitive data types store single and simple values.
-String – It represents a series of characters and is written inside single or double quotes.
+* Primitive data types store single and simple values.
+
+* String – It represents a series of characters and is written inside single or double quotes.
 Example: "Hello"
-Number – It represents numeric values, with or without decimals.
+
+* Number – It represents numeric values, with or without decimals.
 Example: 25, 3.14
-BigInt – Used to store very large integers beyond the limit of Number.
+
+* BigInt – Used to store very large integers beyond the limit of Number.
 It is written by adding n at the end of the number.
 Example: 12345678901234567890n
-Boolean – Represents logical values: true or false.
+
+* Boolean – Represents logical values: true or false.
 Used in conditions and decision making.
-Undefined – When a variable is declared but not assigned any value, it is undefined.
-Null – Represents an empty or no value.
-Symbol – Introduced in ES6.
+
+* Undefined – When a variable is declared but not assigned any value, it is undefined.
+
+* Null – Represents an empty or no value.
+
+* Symbol – Introduced in ES6.
 Used to create unique and anonymous values.
 
-In Non-primitive 
-Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
-Object - Used to store collection of data.  like array, function
+*Non-Primitive Data Types
+
+* To store multiple or complex values, Non-Primitive data types are used.
+
+* Object – Used to store data in key-value pairs.
+Example: { name: "Vishal", age: 21 }
+
+* Array – Used to store multiple values.
+Example: [10, 20, 30]
+
+* Function – Used to store reusable blocks of code.
+Example: function greet() {}
 ***
 
 ###  2.Javascript:- What is the difference between var, let, and const in JavaScript?
