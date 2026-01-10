@@ -177,6 +177,10 @@ Example:
 * (x === y) // Returns false since the typeof x is "number" and typeof y is "string"
 ***
 
+###  4.Javascript:- What is the Hoisting in JavaScript?
+Hoisting is the default behavior of JavaScript where variable and function declarations are moved to the top of their scope before the code is executed.
+***
+
 ###  1.React:- What is React?
 React is an open-source, front-end JavaScript library for building user interfaces, that focuses on reusable components and virtual DOM for performance.
 ***
