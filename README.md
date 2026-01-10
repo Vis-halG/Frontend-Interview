@@ -9,7 +9,7 @@
 ***
 
 ###   2.HTML:- What are tags and attributes in HTML?
-Tags are the primary component of the HTML that defines how the content will be structured/ formatted, whereas Attributes are used along with the HTML tags to define the characteristics of the element. For example, <p align=” center”> Interview questions **`</p>`**.
+Tags are the primary component of the HTML that defines how the content will be structured/ formatted, and Attributes are used along with the HTML tags to define the characteristics of the element. For example, <p align=” center”> Interview questions **`</p>`**.
 ***
 
 ###  3.HTML:- What are void elements in HTML?
@@ -17,7 +17,7 @@ HTML elements which do not have closing tags or do not need to be closed are Voi
 ***
 
 ### 4.HTML:- What are different types of lists in HTML?
-there are mainly three types of lists used to organize content. Ordered lists (&lt;ol&gt;) are used when the items need to follow a specific sequence, and they are usually displayed with numbers or letters. Unordered lists (&lt;ul&gt;) are used when the order of items doesn’t matter, and they are displayed with bullet points by default. Description lists (&lt;dl&gt;) are used to define terms and their descriptions, where &lt;dt&gt; represents the term and &lt;dd&gt; represents its definition.
+there are mainly three types of lists. Ordered lists (&lt;ol&gt;) are used when the items need to follow a specific sequence, and they are usually displayed with numbers or letters. Unordered lists (&lt;ul&gt;) are used when the order of items doesn’t matter, and they are displayed with bullet points by default. Description lists (&lt;dl&gt;) are used to define terms and their descriptions, where &lt;dt&gt; represents the term and &lt;dd&gt; represents its definition.
 ***
 ### 5.HTML:- What are the various formatting tags in HTML?
 formatting tags are used to style and emphasize text. Some of the commonly used tags are:
@@ -32,8 +32,9 @@ For scientific or mathematical notations, we use &lt;sub&gt; for subscript and &
 both &lt;strong&gt; and &lt;b&gt; make text appear bold, but their meaning is different. The &lt;b&gt; tag is used only for styling, while &lt;strong&gt; adds semantic importance, telling browsers and search engines that the text is important. Similarly, both &lt;em&gt; and &lt;i&gt; make text appear italic, but &lt;em&gt; adds emphasis with meaning, while &lt;i&gt; is just for visual styling without extra importance. Using &lt;strong&gt; and &lt;em&gt; is preferred for accessibility and SEO.
 ***
 
-### 6.HTML:- What is the difference between &lt;strong&gt;, &lt;b&gt; tags and &lt;em&gt;, &lt;i&gt; tags?
-both &lt;strong&gt; and &lt;b&gt; make text appear bold, but their meaning is different. The &lt;b&gt; tag is used only for styling, while &lt;strong&gt; adds semantic importance, telling browsers and search engines that the text is important. Similarly, both &lt;em&gt; and &lt;i&gt; make text appear italic, but &lt;em&gt; adds emphasis with meaning, while &lt;i&gt; is just for visual styling without extra importance. Using &lt;strong&gt; and &lt;em&gt; is preferred for accessibility and SEO.
+### 6.HTML:- What are Semantic Tags in HTML?
+Semantic tags are HTML tags that describe the meaning of the content.
+Examples: header, nav, main, section, article, footer.
 ***
 
 
