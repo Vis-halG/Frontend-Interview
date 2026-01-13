@@ -213,6 +213,9 @@ React Router is a tool that lets you move between pages in a React app without r
 A stateful component is a React component that stores and manages its own data using state. This data can change over time due to user actions, API responses, or events. Whenever the state changes, React automatically re-renders the component to update the UI. In modern React, stateful components are usually created using functional components with Hooks like useState and useEffect, while earlier they were implemented using class components with this.state and setState.
 ***
 
+###  6.React:- What is React Router?
+React Router is a tool that lets you move between pages in a React app without reloading the page.
+***
 ***
 
 ***
