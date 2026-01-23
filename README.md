@@ -206,7 +206,7 @@ JSX is a syntax extension for JavaScript used in React to write HTML-like code i
 ***
 
 ###  6.React:- What is React Router?
-React Router is a tool that lets you move between pages in a React app without reloading the page.
+React Router is a library that allows navigation between different components in a React single-page application without reloading the page
 ***
 
 ###  7.React:- What is a stateful component?
